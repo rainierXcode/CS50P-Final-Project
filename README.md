@@ -68,4 +68,3 @@ CS50P teaches the fundamentals of programming in Python, including variables, fu
 
 [CS50's Introduction to Programming with Python course](https://cs50.harvard.edu/python/2022/)
 
-"# CS50P-Final-Project" 
